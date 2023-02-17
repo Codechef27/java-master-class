@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ControlFlow/ControlFlow.iml" filepath="$PROJECT_DIR$/ControlFlow/ControlFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Masterclass.iml" filepath="$PROJECT_DIR$/.idea/Java Masterclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance-oop/inheritance-oop.iml" filepath="$PROJECT_DIR$/inheritance-oop/inheritance-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/looping/looping.iml" filepath="$PROJECT_DIR$/looping/looping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reeading_user_input/reeading_user_input.iml" filepath="$PROJECT_DIR$/reeading_user_input/reeading_user_input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/while_loop/while_loop.iml" filepath="$PROJECT_DIR$/while_loop/while_loop.iml" />
+    </modules>
+  </component>
+</project>
