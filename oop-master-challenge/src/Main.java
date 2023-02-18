@@ -12,10 +12,16 @@ public class Main {
 //        regularMeal.addBurgerToppings("bacon", "cheese", "ketchup");
 //        regularMeal.setDrinkSize("large");
 //        regularMeal.printItemizedList();
+//
+//        MealOrder meal = new MealOrder("Turkey", "7-up", "chili");
+//        meal.addBurgerToppings("lettuce", "bacon", "mayo");
+//        meal.setDrinkSize("small");
+//        meal.printItemizedList();
 
-        MealOrder meal = new MealOrder("Turkey", "7-up", "chili");
-        meal.addBurgerToppings("lettuce", "bacon", "mayo");
-        meal.setDrinkSize("small");
-        meal.printItemizedList();
+        MealOrder db = new MealOrder("Deluxe", "Coke","fries" );
+        db.addBurgerToppings("Avocado", "Bacon", "Ketchup", "Mayo", "Lettuce");
+        db.setDrinkSize("Large");
+        db.printItemizedList();
+
     }
 }
